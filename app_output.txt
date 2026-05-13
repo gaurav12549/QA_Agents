@@ -1,0 +1,7 @@
++-----------------------------[CrewAIEventsBus] Sync handler error in on_agent_logs_started: 'charmap' codec 
+can't encode character '\U0001f916' in position 1: character maps to 
+<undefined>
++---------------------------[CrewAIEventsBus] Sync handler error in on_agent_logs_execution: 'charmap' 
+codec can't encode character '\u2705' in position 1: character maps to 
+<undefined>
+{'name': 'tavily_search', "parameters": {"query": "AI testing news latest articles"}}
